@@ -1,0 +1,36 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+    "${modID}:Crysknife": {
+      "NAME": "Crysknife",
+      "DESCRIPTION": "Slice with your crysknife for !D! damage."
+},
+    "${modID}:Defend": {
+      "NAME": "Defend",
+      "DESCRIPTION": "Your personal shield powers up to add !B! block."
+},
+  "${modID}:AtreidesPower": {
+    "NAME": "Atreides Loyalty",
+    "DESCRIPTION": "House Atreides trust you eternally. Gain 1 *Loyalty."
+  },
+  "${modID}:BenePower": {
+    "NAME": "Tleilaxu Tanks",
+    "DESCRIPTION": "You gain access to the Tleilaxu Tanks. Gain 1 *Revive."
+  },
+  "${modID}:EmpPower": {
+    "NAME": "Emperor's Wealth",
+    "DESCRIPTION": "The Emperor bankrolls your campaign. Gain 30% additional gold."
+  },
+  "${modID}:HarkPower": {
+    "NAME": "Harkonnen Might",
+    "DESCRIPTION": "You gain a permanent 2 Strength from the Harkonnen miltary complex."
+  }
+}

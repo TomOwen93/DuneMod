@@ -1,0 +1,23 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "Good Relic",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:GholaEyes": {
+    "NAME": "Ghola Eyes",
+    "FLAVOR": "Observed closely, they betray tiny black pockmarks, little wells of darkness in the glittering metal.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. [E] is an energy icon."
+    ]
+  },
+  "${modID}:FactionRelic": {
+    "NAME": "Faction Signet",
+    "FLAVOR": "A ring representing a major house of the Imperium",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose a permanent faction *power ."
+    ]
+  }
+}
